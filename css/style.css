@@ -1,0 +1,59 @@
+@import './global.css';
+@import './header.css';
+
+
+
+/*----Utilidades---*/
+@import './utilidades/componentes.css';
+@import './utilidades/formulario.css';
+@import './utilidades/cores.css';
+@import './utilidades/tipografia.css';
+@import './utilidades/animacao.css';
+
+
+/*-------Home--------*/
+@import './home/introducao.css';
+@import './home/lista-produtos.css';
+@import './home/tecnologia.css';
+@import './home/parceiros.css';
+@import './home/depoimento.css';
+@import './home/seguros.css';
+@import './home/footer.css';
+
+/*---------Termos----------*/
+@import './termos/termos.css';
+
+/*---------Produtos----------*/
+@import './produtos/produtos.css';
+
+
+/*------Seguros--------*/
+@import './seguros/seguros.css';
+@import './seguros/faq.css';
+
+/*------Bicicleta--------*/
+@import './bicicleta/bicicleta.css';
+
+/*------Bicicleta--------*/
+@import './contato/contato.css';
+@import './contato/lojas.css';
+
+/*------Orçamento--------*/
+@import './orcamento/orcamento.css';
+
+
+/*--------Fontes------*/
+@font-face {
+    font-family: 'poppins';
+    src: local(Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'roboto';
+    src: local(Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'merri';
+    src: local(Merriweather-BoldItalic.ttf);
+}
